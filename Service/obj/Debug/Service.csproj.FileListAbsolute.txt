@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2013\Projects\Media\Service\bin\Debug\Service.dll
+c:\users\admin\documents\visual studio 2013\Projects\Media\Service\bin\Debug\Service.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Media\Service\bin\Debug\Data.dll
+c:\users\admin\documents\visual studio 2013\Projects\Media\Service\bin\Debug\Domain.dll
+c:\users\admin\documents\visual studio 2013\Projects\Media\Service\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2013\Projects\Media\Service\bin\Debug\Data.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Media\Service\bin\Debug\Domain.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Media\Service\bin\Debug\EntityFramework.xml
+c:\users\admin\documents\visual studio 2013\Projects\Media\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Media\Service\obj\Debug\Service.dll
+c:\users\admin\documents\visual studio 2013\Projects\Media\Service\obj\Debug\Service.pdb
